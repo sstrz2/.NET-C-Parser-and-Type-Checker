@@ -7,14 +7,7 @@
 // Returns: the string "success" if the input program is
 // legal, otherwise the string "syntax_error: ..." is
 // returned denoting an invalid SimpleC program.
-//
-// Seth Strzechowski
-//
-// Original author:
-//   Prof. Joe Hummel
-//   U. of Illinois, Chicago
-//   CS 341, Spring 2022
-//
+
 
 namespace compiler
 
