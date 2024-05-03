@@ -9,19 +9,6 @@
 // is a list of tuples of the form (name, type).  Example:
 //
 //   [("x", "int"); ("y", "int"); ("z", "real")]
-//
-// Modified by:
-//   Seth Strzechowski
-//
-// Original author:
-//   Prof. Joe Hummel
-//   University of Illinois Chicago
-//   CS 341, Spring 2022
-// Modified by:
-//   Ellen Kidane
-//   University of Illinois Chicago
-//   CS 341, Spring 2024
-//
 
 namespace compiler
 
