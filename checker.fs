@@ -4,19 +4,6 @@
 // success or failure. The string "success" if the input 
 // program is legal, otherwise the string "type_error: ..." 
 // is returned denoting an invalid SimpleC program.
-//
-// Modified by:
-//  Seth Strzechowski
-//
-// Original author:
-//   Prof. Joe Hummel
-//   University of Illinois Chicago
-//   CS 341, Spring 2022
-// Modified by:
-//   Ellen Kidane
-//   University of Illinois Chicago
-//   CS 341, Spring 2024
-//
 
 namespace compiler
 
