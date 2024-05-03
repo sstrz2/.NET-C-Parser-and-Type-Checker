@@ -2,16 +2,6 @@
 // F# program to compile SimpleC programs. This is the main
 // function denoting the compiler, calling the lexer, 
 // parser, analyzer, etc.
-//
-// Original author:
-//   Prof. Joe Hummel
-//   University of Illinois Chicago
-//   CS 341, Spring 2022
-// Modified by:
-//   Ellen Kidane
-//   University of Illinois Chicago
-//   CS 341, Spring 2024
-//
 
 
 //##################################################################
