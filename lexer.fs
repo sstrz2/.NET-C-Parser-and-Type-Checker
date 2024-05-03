@@ -7,18 +7,6 @@
 // Returns: a list of strings, for example:
 //   ["void";"main";"(";")";"{";"int";"identifier:x",...]
 //
-// Modified by:
-//   Seth Strzechowski
-//
-// Original author:
-//   Prof. Joe Hummel
-//   University of Illinois Chicago
-//   CS 341, Spring 2022
-// Modified by:
-//   Ellen Kidane
-//   University of Illinois Chicago
-//   CS 341, Spring 2024
-//
 
 namespace compiler
 
